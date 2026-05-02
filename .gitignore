@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FutureValue/FutureValue/bin/Debug/net7.0-windows
+/FutureValue/.vs/FutureValue/FileContentIndex
